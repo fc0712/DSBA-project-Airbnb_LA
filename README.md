@@ -1,5 +1,32 @@
 # Github Repo for Data Science Project of Analysis of Airbnb
 
+## Introduction and Research question
+The global sharing economy is rapidly increasing, and in United States the number adult engaging in a sharing economy
+transaction is expected to reach 86.5 million by 2021 (eMarketer & Statista, 2017). Airbnb is one of the pioneers when
+it comes to sharing economy businesses, and with its more than 800 million customers, it is one of the most successful
+sharing economy platforms in the world (Airbnb, 2020a).
+
+A common problem new Airbnb hosts are facing is determining the optimal price to charge for the apartment, house,
+room etc. Simply comparing prices to listings in your neighborhood and basing prices on that will most likely not reflect
+the ideal price. Thus, finding the optimal price for your Airbnb listing is a difficult and time-consuming activity. Setting
+the price too high will result in a lack of booking and setting the price too low you will miss out on potential income.
+Based on the described issue the following research question is derived:
+
+ *“Is it possible to predict the optimal listings price for new Airbnb listings?”*
+
+ 
+To help answer above research questions and to ensure consistency in the project, the secondary research questions
+will be answered throughout the project:
+- What factors are important for renters when renting an Airbnb listing?
+- Which attributes are the most significant determinants for the optimal listing price?
+
+
+Above research will be based on the city of Los Angeles in the United States. Airbnb listings in Los Angeles has increased
+exponentially in over the past year and Los Angeles is now one of the cities in the world with the most Airbnb listings
+(Airdna & Statista, 2018a, 2018b). The main reason why our research is based on listings in Los Angeles is due to the
+fact the Los Angeles does not have a center, unlike the majority of other popular Airbnb destinations, which makes the
+city very unique.
+
 
 ## Notebook
 If the notebook for some reason is not loading on github the following links should take you to jupyter NBviewer. 
