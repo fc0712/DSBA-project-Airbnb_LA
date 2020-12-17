@@ -1,4 +1,4 @@
-# Github Repo for Data Science Project of Analysis of Airbnb
+# Data Science Project of AirBnb in Los Angeles - DSBA course CBS
 
 ## Introduction and Research question
 The global sharing economy is rapidly increasing, and in United States the number adult engaging in a sharing economy
