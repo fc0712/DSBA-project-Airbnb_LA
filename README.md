@@ -1,7 +1,7 @@
 # Data Science Project of AirBnb in Los Angeles - DSBA course CBS
 
 ## Introduction and Research question
-The global sharing economy is rapidly increasing, and in United States the number adult engaging in a sharing economy
+The global sharing economy is rapidly increasing, and in United States the number of adults engaging in a sharing economy
 transaction is expected to reach 86.5 million by 2021 (eMarketer & Statista, 2017). Airbnb is one of the pioneers when
 it comes to sharing economy businesses, and with its more than 800 million customers, it is one of the most successful
 sharing economy platforms in the world (Airbnb, 2020a).
